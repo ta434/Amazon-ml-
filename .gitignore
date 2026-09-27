@@ -1,0 +1,15 @@
+# Ignore dataset directory and mp4 files
+dataset/
+*.mp4
+
+# macOS
+__MACOSX/
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtualenv
+venv/
+env/
